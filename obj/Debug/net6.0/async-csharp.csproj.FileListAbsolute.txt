@@ -1,0 +1,15 @@
+/home/mahar/Desktop/currently_developing_projects/async-csharp/bin/Debug/net6.0/async-csharp
+/home/mahar/Desktop/currently_developing_projects/async-csharp/bin/Debug/net6.0/async-csharp.deps.json
+/home/mahar/Desktop/currently_developing_projects/async-csharp/bin/Debug/net6.0/async-csharp.runtimeconfig.json
+/home/mahar/Desktop/currently_developing_projects/async-csharp/bin/Debug/net6.0/async-csharp.dll
+/home/mahar/Desktop/currently_developing_projects/async-csharp/bin/Debug/net6.0/ref/async-csharp.dll
+/home/mahar/Desktop/currently_developing_projects/async-csharp/bin/Debug/net6.0/async-csharp.pdb
+/home/mahar/Desktop/currently_developing_projects/async-csharp/obj/Debug/net6.0/async-csharp.csproj.AssemblyReference.cache
+/home/mahar/Desktop/currently_developing_projects/async-csharp/obj/Debug/net6.0/async-csharp.GeneratedMSBuildEditorConfig.editorconfig
+/home/mahar/Desktop/currently_developing_projects/async-csharp/obj/Debug/net6.0/async-csharp.AssemblyInfoInputs.cache
+/home/mahar/Desktop/currently_developing_projects/async-csharp/obj/Debug/net6.0/async-csharp.AssemblyInfo.cs
+/home/mahar/Desktop/currently_developing_projects/async-csharp/obj/Debug/net6.0/async-csharp.csproj.CoreCompileInputs.cache
+/home/mahar/Desktop/currently_developing_projects/async-csharp/obj/Debug/net6.0/async-csharp.dll
+/home/mahar/Desktop/currently_developing_projects/async-csharp/obj/Debug/net6.0/ref/async-csharp.dll
+/home/mahar/Desktop/currently_developing_projects/async-csharp/obj/Debug/net6.0/async-csharp.pdb
+/home/mahar/Desktop/currently_developing_projects/async-csharp/obj/Debug/net6.0/async-csharp.genruntimeconfig.cache
